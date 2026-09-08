@@ -77,6 +77,35 @@ if (window.location.pathname.includes("member.html")) {
     carregarMembro();
 }
 
+function getRelatoIdFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    return Number(params.get("id"));
+}
+
+async function carregarRelato() {
+    const response = await fetch('./../JSON/relatos.json');
+    const data = await response.json();
+    const relato = data.relatos.find(item => item.id === getRelatoIdFromURL());
+
+    if (!relato) {
+        document.getElementById("relatoTitulo").innerText = "Relato não encontrado";
+        document.getElementById("relatoConteudo").innerHTML = "<p>Não foi possível encontrar esse relato.</p>";
+        return;
+    }
+
+    document.title = relato.titulo;
+    document.getElementById("relatoSemana").innerText = relato.semana;
+    document.getElementById("relatoTitulo").innerText = relato.titulo;
+    document.getElementById("relatoSubtitulo").innerText = relato.subtitulo;
+    document.getElementById("relatoConteudo").innerHTML = relato.conteudo
+        .map(paragrafo => `<p>${paragrafo}</p>`)
+        .join("");
+}
+
+if (window.location.pathname.includes("relato.html")) {
+    carregarRelato();
+}
+
 function calcularIdade(dataNascimento) {
     if (!dataNascimento || dataNascimento === "?") return "?";
 
@@ -99,4 +128,6 @@ function calcularIdade(dataNascimento) {
     return idade;
 }
 
-carregarEquipe();
+if (document.getElementById("teamContainer")) {
+    carregarEquipe();
+}

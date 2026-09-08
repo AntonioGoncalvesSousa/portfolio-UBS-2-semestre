@@ -1,0 +1,42 @@
+{
+    "titulo": "Relatos",
+    "descricao": "Relatos das experiências clínicas realizadas durante o estágio na UBS.",
+    "relatos": [
+        {
+            "id": 1,
+            "semana": "Semana 01",
+            "titulo": "Relato da 1° semana",
+            "subtitulo": "Experiência Clínica do Denilson",
+            "conteudo": [
+                "Durante o acompanhamento clínico em uma unidade de Assistência Médica Ambulatorial (AMA), foram observados três casos suspeitos de infarto agudo do miocárdio (IAM) que demonstraram a importância do diagnóstico diferencial.",
+                "Nos dois primeiros casos, pacientes do sexo feminino (50-55 anos) apresentavam dor torácica e formigamento nas mãos. Entretanto, a anamnese detalhada revelou que ambas eram trabalhadoras domésticas com histórico de movimentos repetitivos. Como os exames complementares não apresentaram alterações e houve melhora significativa com o uso de anti-inflamatórios, a hipótese de infarto foi descartada, confirmando uma origem musculoesquelética para as dores.",
+                "O terceiro caso apresentou um desafio maior: a paciente estava visivelmente abatida e relatava dor persistente que aliviava parcialmente ao sentar-se. Embora o eletrocardiograma (ECG) inicial estivesse normal, a persistência dos sintomas levou o médico a adotar uma conduta de precaução. Foi administrada medicação de forma empírica e a paciente foi prontamente encaminhada à UPA para a realização do exame de troponina, marcador específico essencial para confirmar ou descartar definitivamente a lesão cardíaca."
+            ]
+        },
+        {
+            "id": 2,
+            "semana": "Semana 02",
+            "titulo": "Relato da 2° semana",
+            "subtitulo": "Visita Domiciliar do Antonio, Anderson e Flávia",
+            "conteudo": [
+                "Em mais uma etapa da Unidade Curricular de PMSUS, saímos dos limites da sala de aula e da UBS para vivenciar a Atenção Domiciliar no território. Nosso grupo, formado por Anderson, Antônio e Flávia, acompanhou a fisioterapeuta da equipe multidisciplinar (EMAD/EMAP) nas visitas agendadas para o dia. Essa imersão nos permitiu compreender de perto a dinâmica do cuidado no lar e o papel essencial da integração entre a equipe de saúde, os pacientes e seus cuidadores para manter a assistência contínua, reabilitar quadros crônicos e evitar internações desnecessárias.",
+                "Ao longo da jornada, realizamos quatro visitas domiciliares sob uma postura essencialmente observacional e reflexiva. No primeiro atendimento, acompanhamos o Seu Ricardo, paciente com demência frontotemporal e quadros de agitação, observando as condutas fisioterapêuticas para conter contraturas e as orientações prestadas à sua esposa sobre o manejo do cuidado diário. Em seguida, visitamos a Dona Sebastiana, idosa pós-AVC com início de demência, onde presenciamos o trabalho de mobilização motora para prevenção de complicações do imobilismo. Na terceira casa, acompanhamos a Dona Júlia, uma senhora de 90 anos em reabilitação de fratura cervical, que realizou exercícios respiratórios e de equilíbrio, evidenciando o impacto positivo do suporte e incentivo familiar. Por fim, no atendimento ao Seu Luiz, paciente com DPOC e sequela motora, vivenciamos o treino de marcha com andador para manutenção da sua autonomia.",
+                "Entre todas as vivências do dia, o caso do Seu Carlos foi selecionado pelo nosso grupo como a principal situação-problema para o aprofundamento do aprendizado. O paciente apresenta Obesidade Grau III e DPOC grave de base, necessitando de acompanhamento constante e exercícios com incentivador respiratório (Respiron) para otimizar a ventilação e manter sua saturação de oxigênio adequada. Durante o atendimento, observamos atentamente a condução das manobras de reexpansão pulmonar e higiene brônquica realizadas pela profissional.",
+                "A partir dessa visita, Anderson, Antônio e Flávia puderam analisar os determinantes sociais e as vulnerabilidades que impactam diretamente a saúde e o tratamento do Seu Carlos. Identificamos importantes barreiras arquitetônicas no ambiente doméstico, onde a disposição dos móveis na sala restringe severamente sua mobilidade, mantendo-o confinado ao sofá. Além disso, notamos a intensa sobrecarga familiar, já que a rotina da casa também envolve os cuidados dedicados ao filho do casal, que possui Transtorno do Espectro Autista (TEA). Essa dupla demanda gera forte estresse emocional na esposa e afeta a adesão do próprio paciente aos exercícios diários e às orientações nutricionais. Somado a isso, vivenciamos os desafios enfrentados pela própria equipe de saúde, que precisa equilibrar o tempo e a alta demanda territorial com a necessidade de um acompanhamento mais frequente.",
+                "Essa experiência em campo trouxe ao nosso grupo uma reflexão profunda sobre o verdadeiro significado do cuidado no âmbito do SUS. Percebemos que a prática médica vai muito além do diagnóstico e da prescrição farmacológica; exige enxergar o indivíduo em sua totalidade, compreendendo a estrutura do seu lar, a rede de apoio familiar e suas condicionantes sociais para, assim, construir um Projeto Terapêutico Singular (PTS) que seja realmente efetivo, integrado e humanizado."
+            ]
+        },
+        {
+            "id": 3,
+            "semana": "Semana 03",
+            "titulo": "Relato da 3° semana",
+            "subtitulo": "Experiência Clínica do Viccenzo. Introdução ao SINAN ",
+            "conteudo": [
+                "Em uma atividade realizada com o grupo, fomos introduzidos pela preceptora Monica ao funcionamento do SINAN (Sistema de Informação de Agravos de Notificação), ferramenta necessária para a prática na atenção primária, sendo importante para a vigilância epidemiológica no Brasil.",
+                "O SINAN tem objetivo de coletar e processar dados sobre doenças e agravos de notificação em todo o território do Brasil, fornecendo informações para a análise do perfil de morbidade da população, permitindo detectar surtos ou epidemias e estimar o nível de problemas de saúde. A notificação é feita por meio de fichas que buscam garantir a singularidade dos conceitos de definição. Essa ficha é preenchida para cada paciente com suspeita de alguma doença da lista nacional de notificação compulsória.",
+                "Os dados do paciente devem ser:\n- Identificação do indivíduo\n- Dados clínicos: sinais e sintomas, data do início dos sintomas e hipóteses diagnósticas.\n- Dados de residência: para identificar a realidade epidemiológica de áreas geográficas específicas.",
+                "Essa introdução no 3º dia de UBS foi essencial para entendermos que a nossa atuação no sistema (UBS) é o que alimenta as decisões de saúde pública em nível federal. Sem a notificação correta e oportuna, o sistema de saúde não consegue \"enxergar\" as doenças que circulam na comunidade, o que compromete o planejamento de ações e a distribuição de recursos."
+            ]
+        }
+    ]
+}
