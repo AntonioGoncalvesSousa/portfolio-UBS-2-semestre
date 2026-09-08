@@ -218,7 +218,7 @@ body {
 .memberBg {
     background-color: #f0f0f0;
     width: 100%;
-    min-height: 100vh;
+    min-height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -398,27 +398,105 @@ p {
 }
 
 .relatosCard {
+    position: relative;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 20px;
-    padding: 40px;
-    text-align: center;
+    align-items: flex-start;
+    gap: 12px;
+    min-height: 250px;
+    padding: 30px;
+    border: 1px solid #dbe8ef;
+    border-radius: 18px;
+    background: linear-gradient(145deg, #ffffff 0%, #f5fbfc 100%);
+    box-shadow: 0 12px 28px rgba(0, 67, 94, 0.08);
+    text-align: left;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.relatosList {
+    width: min(1100px, calc(100% - 48px));
+    min-height: 0;
+    margin: 48px 0;
+    padding: 42px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: stretch;
+    gap: 24px;
+    border-radius: 28px;
+    background: rgba(255, 255, 255, 0.88);
+    box-shadow: 0 18px 45px rgba(0, 67, 94, 0.12);
+}
+
+.relatosList::before {
+    content: "Experiências em campo";
+    grid-column: 1 / -1;
+    color: #0066cc;
+    font-size: clamp(1.8rem, 3vw, 2.5rem);
+    font-weight: 800;
+    letter-spacing: -0.5px;
+}
+
+.relatosCard:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 18px 34px rgba(0, 67, 94, 0.15);
+}
+
+.relatoWeek {
+    color: #00a896;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.relatosCard h2 {
+    color: #123b52;
+    font-size: 1.25rem;
+    line-height: 1.25;
+}
+
+.relatosCard p {
+    min-height: 52px;
+    color: #526a76;
+    font-size: 1rem;
+    line-height: 1.55;
 }
 
 .relatoBtn {
+    margin-top: auto;
     text-decoration: none;
-    background-color: #0066cc;
+    background: #0066cc;
     color: white;
-    padding: 12px 24px;
-    border-radius: 12px;
+    padding: 12px 18px;
+    border-radius: 10px;
     font-weight: 600;
-    transition: 0.3s;
+    transition: background-color 0.25s ease, transform 0.25s ease;
 }
 
 .relatoBtn:hover {
     background-color: #0052a3;
-    transform: scale(1.03);
+    transform: translateY(-2px);
+}
+
+@media (max-width: 900px) {
+    .relatosList {
+        grid-template-columns: 1fr;
+        padding: 30px;
+    }
+}
+
+@media (max-width: 520px) {
+    .relatosList {
+        width: calc(100% - 28px);
+        margin: 24px 0;
+        padding: 22px;
+        border-radius: 20px;
+    }
+
+    .relatosCard {
+        min-height: 220px;
+        padding: 24px;
+    }
 }
 
 .dayReport {
