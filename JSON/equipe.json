@@ -1,0 +1,101 @@
+{
+    "equipe": [
+        {
+            "id": 1,
+            "imagem": "css/assets/vicenzo.jpeg",
+            "nome": "Vicenzo de Oliveira Tenório",
+            "especialidade_desejada": "Geriatria",
+            "data_nascimento": "08/04/2006",
+            "sobre": "Estou começando agora meu estágio em uma Unidade Básica de Saúde (UBS), e pra mim isso é ao mesmo tempo muito importante e um pouco assustador.",
+            "expectativas": "Aprender de verdade como funciona a medicina no dia a dia, melhorar a forma de conversar com os pacientes, entender melhor o que eles sentem, aprender a olhar além da doença e ver como funciona o SUS na prática, principalmente na atenção básica.",
+            "medos_e_desafios": "Medo de não saber o que fazer em algumas situações, de travar na hora de falar com o paciente, de não conseguir colocar em prática o que foi estudado e de não corresponder às expectativas dos profissionais mais experientes, além da insegurança de ainda não se sentir pronto.",
+            "motivacoes": "Vontade de ajudar as pessoas e fazer diferença na vida delas, interesse pelo cuidado mais próximo e humano da UBS e motivação em aprender com profissionais que já vivem essa realidade todos os dias.",
+            "2_dia_ubs": [
+                "No meu segundo dia de vivência na Unidade Básica de Saúde, ao chegar, fui encaminhado pela preceptora para a sala de acolhimento.",
+                "O acolhimento na UBS é um espaço em que o paciente é recebido, escutado e orientado conforme sua necessidade. Nele, a equipe busca entender a demanda apresentada, identificar situações de urgência, organizar os encaminhamentos necessários e, quando possível, resolver o problema dentro da própria unidade. No acolhimento podem ser realizadas orientações de saúde, avaliação inicial de queixas, aferição de sinais vitais, escuta qualificada, classificação da necessidade do atendimento, encaminhamento para consulta médica ou de enfermagem, renovação de receitas, solicitação ou entrega de materiais, organização de encaixes e direcionamento para outros serviços quando a UBS não consegue resolver aquela situação no momento.",
+                "Durante esse período, observei o atendimento de uma cuidadora que procurava um encaixe na agenda médica para sua paciente. Essa situação mostrou como o acolhimento também funciona como um local de organização do acesso aos profissionais da unidade, avaliando se há possibilidade de atendimento no mesmo dia ou se a demanda deve ser agendada para outro momento. Além disso, foi possível perceber a importância de escutar não apenas o paciente, mas também familiares e cuidadores, que muitas vezes são responsáveis por acompanhar o tratamento e buscar atendimento quando necessário.",
+                "Em seguida, acompanhei o caso de uma paciente hipertensa que já estava com a medicação prescrita e foi até a UBS para receber o medicamento. Após a avaliação, a enfermeira encaminhou a paciente para a AMA para que a medicação fosse administrada por via injetável. Esse encaminhamento pode acontecer quando a unidade precisa que um medicamento seja aplicado em um local com estrutura adequada para esse tipo de procedimento, principalmente quando há necessidade de maior suporte, observação após a aplicação ou quando a UBS não realiza determinado procedimento naquele momento.",
+                "Depois disso, entramos no acolhimento voltado para pacientes diabéticos, que funciona em uma sala separada destinada ao atendimento dessas demandas específicas. Nesse espaço, foram atendidos três pacientes. Todos compareceram com o objetivo de verificar se o aparelho de medir glicemia estava calibrado e também para pegar o pedido das fitinhas utilizadas no controle da glicemia capilar.",
+                "Esse atendimento é muito importante porque o paciente diabético, principalmente aquele que precisa monitorar a glicose com frequência, depende de um aparelho confiável para acompanhar seus níveis glicêmicos. A conferência da calibração ou do funcionamento do glicosímetro ajuda a garantir que os valores medidos estejam corretos, evitando erros no acompanhamento da doença. Um aparelho descalibrado pode mostrar uma glicemia mais alta ou mais baixa do que a real, o que pode prejudicar o controle do diabetes e até levar a condutas inadequadas.",
+                "As “fitinhas” são as tiras reagentes usadas no aparelho de glicemia. Para medir a glicose, o paciente realiza uma pequena punção no dedo, geralmente com uma lanceta, e coloca uma gota de sangue na tira reagente. Essa tira é inserida no glicosímetro, que faz a leitura e mostra o valor da glicemia capilar. Essas fitas são descartáveis, ou seja, cada medição utiliza uma nova tira. Por isso, pacientes diabéticos que precisam medir a glicemia com frequência necessitam retirar regularmente esse material na farmácia da UBS, geralmente após receberem o pedido ou autorização correspondente.",
+                "Após pegarem o pedido das fitinhas, os pacientes são orientados a se dirigir à farmácia da unidade para retirar o material. Esse processo mostra a importância da integração entre os diferentes setores da UBS, como acolhimento, enfermagem e farmácia, para garantir a continuidade do cuidado. Também evidencia que o acompanhamento do paciente diabético não se limita à consulta médica, mas envolve educação em saúde, fornecimento de insumos, monitoramento da glicemia e avaliação da adesão ao tratamento.",
+                "Essa vivência foi importante para perceber como o acolhimento organiza grande parte do fluxo da UBS. Ele não é apenas uma recepção, mas um espaço de escuta, avaliação e direcionamento das necessidades dos usuários. Também pude observar como a Atenção Primária atua no cuidado de doenças crônicas, como hipertensão e diabetes, oferecendo acompanhamento contínuo, orientações e acesso a medicamentos e materiais necessários para o controle dessas condições.",
+                "Ao final do dia, compreendi melhor a importância do trabalho da equipe multiprofissional dentro da UBS. A enfermeira, os profissionais do acolhimento, a farmácia e os demais membros da equipe atuam de forma articulada para garantir que o paciente seja atendido de acordo com sua necessidade. Essa experiência contribuiu para ampliar minha visão sobre o funcionamento da Atenção Básica e sobre a importância de um atendimento humanizado, organizado e resolutivo."
+            ]
+        },
+        {
+            "id": 2,
+            "imagem": "css/assets/fernanda.jpeg",
+            "nome": "Fernanda",
+            "especialidade_desejada": "Medicina de emergência | Legista",
+            "data_nascimento": "23/11/2007",
+            "sobre": "Estou aqui com o objetivo de aprofundar meus conhecimentos, desenvolver minha prática e vivenciar de perto a rotina da área da saúde.",
+            "expectativas": "Aprender bastante na prática, ter contato com pacientes para entender melhor a profissão e poder tirar dúvidas com os profissionais da área.",
+            "medos_e_desafios": "Receio de não saber agir da melhor forma em determinadas situações, de lidar com pacientes em momentos delicados e de não corresponder às minhas próprias expectativas.",
+            "motivacoes": "Interesse em seguir na medicina de emergência, principalmente em resgates e organizações humanitárias, além de considerar a área de medicina legal no futuro.",
+            "2_dia_ubs": [
+                "No segundo dia de atividades na Unidade Básica de Saúde, acompanhei a rotina da sala de vacinação e observei os procedimentos realizados pelos profissionais do setor. O ambiente demonstrou boa organização em relação ao armazenamento das vacinas e ao controle dos materiais utilizados.",
+                "Durante a observação, percebi que o sistema utilizado para consultar e registrar as vacinas apresenta lentidão e falhas frequentes, dificultando o atendimento. A criação de um aplicativo ou plataforma vinculada ao CPF dos pacientes poderia facilitar o acesso ao histórico vacinal e tornar o processo mais eficiente.",
+                "Também foi possível notar que, devido à grande demanda de atendimentos, os profissionais costumam realizar os procedimentos de forma muito rápida. Embora alguns demonstrem atenção e acolhimento, em certos momentos o atendimento ocorre de maneira mais objetiva, faltando uma comunicação mais cuidadosa com os pacientes.",
+                "A experiência permitiu compreender a importância da vacinação na Atenção Básica e refletir sobre a necessidade de melhorias tanto nos sistemas de informação quanto na qualidade da comunicação durante o atendimento."
+            ]
+        },
+        {
+            "id": 3,
+            "imagem": "css/assets/antonio.jpeg",
+            "nome": "Antonio Gonçalves Sousa",
+            "especialidade_desejada": "Anestesista",
+            "data_nascimento": "26/08/2005",
+            "sobre": "Olá, meu nome é Antonio, sou estudante de Medicina formado em Analise e Desenvolvimento de Sistemas.",
+            "expectativas": "Aprender a prática da medicina, ter contato direto com o paciente e aprender com profissionais formados e bem preparados para qualquer tipo de situação adversa. Acredito que a medicina não se aprende de forma teórica, mas sim de forma prática, observando e tentando reproduzir ações médicas da melhor forma, e que não há forma melhor de aprender do que na UBS.",
+            "medos_e_desafios": "Desafios em relação a iniciar o estudo da medicina já com aprendizado na prática, embora veja isso como algo que trará benefícios futuros.",
+            "motivacoes": "Possibilidade de aumentar o conhecimento e futuramente ser capaz de salvar vidas pela prática da medicina.",
+            "2_dia_ubs": [
+                "No meu segundo dia de experiência na Unidade Básica de Saúde, acompanhei as atividades realizadas na sala de curativos. Logo no início, confesso que levei um susto ao saber que passaria o período nesse setor, pois é um ambiente que lida diretamente com feridas e situações bastante delicadas. Fiquei receoso e um pouco tenso, sem saber exatamente como seria minha reação diante dos procedimentos realizados.",
+                "Durante o atendimento, a enfermeira responsável pelo setor percebeu minha tensão e se mostrou muito atenciosa. Com bastante paciência, começou a me explicar o funcionamento da sala de curativos, os cuidados necessários em cada procedimento e, aos poucos, passou a me incluir nas atividades, pedindo ajuda em tarefas simples e permitindo que eu acompanhasse o atendimento mais de perto.",
+                "Ao longo do período, pude observar diferentes tipos de curativos e compreender a importância desse serviço dentro da Atenção Básica. Apesar de ser um local que exige bastante cuidado e atenção, foi muito interessante acompanhar de perto o trabalho realizado pelos profissionais e perceber o impacto que ele tem na recuperação dos pacientes.",
+                "Uma das coisas que mais me chamou a atenção foi a necessidade de desenvolver empatia e criar uma boa conexão com os pacientes. Muitos deles retornam diversas vezes para acompanhamento e troca de curativos, tornando o vínculo com a equipe um fator importante para a continuidade do tratamento. Ficou evidente que, quando o paciente se sente acolhido e respeitado, ele tende a seguir melhor as orientações e manter o acompanhamento necessário.",
+                "Também percebi que o atendimento na sala de curativos vai muito além da realização de procedimentos técnicos. Em muitos momentos, os profissionais escutavam os pacientes, esclareciam dúvidas e ofereciam apoio emocional, demonstrando que o cuidado envolve não apenas a lesão em si, mas também a pessoa que está passando por aquela situação.",
+                "Essa experiência foi muito importante para ampliar minha visão sobre o trabalho realizado na UBS e sobre a importância do cuidado humanizado. Apesar do receio inicial, terminei o dia mais confortável e interessado pela área. Foi uma experiência muito boa, que me permitiu aprender bastante tanto do ponto de vista técnico quanto humano, e certamente voltaria para esse mesmo setor novamente."
+            ]
+        },
+        {
+            "id": 5,
+            "imagem": "css/assets/anderson.jpeg",
+            "nome": "Anderson Zanata",
+            "especialidade_desejada": "Cardiologista",
+            "data_nascimento": "26/08/2005",
+            "sobre": "Prazer, futuro Dr. Anderson Zanata. Atualmente estudante de Medicina, estou no começo de uma jornada que quero construir com constância e crescimento. Tenho interesse em Cardiologia e enxergo a medicina como uma área que exige muito estudo, responsabilidade e dedicação, mas também oportunidade de evoluir como pessoa e profissional. Quero aproveitar cada experiência para aprender de verdade, desenvolver minha formação e seguir construindo uma trajetória sólida, com impacto real na vida das pessoas.",
+            "expectativas": "Desenvolver uma comunicação mais humana, aprender a lidar com diferentes realidades e entender melhor como funciona o cuidado dentro da atenção básica e do SUS. Também espero aprender mais com os pacientes e com a convivência com a equipe de saúde.",
+            "medos_e_desafios": "Lidar com a insegurança do primeiro contato mais próximo com pacientes, aprender a aplicar a teoria na prática e desenvolver mais confiança dentro do ambiente da saúde.",
+            "motivacoes": "Vejo essa etapa como uma oportunidade importante de crescimento pessoal e profissional, além de contribuir para a construção da minha identidade como futuro médico.",
+            "2_dia_ubs": [
+                "No segundo dia de atividades na Unidade Básica de Saúde, fui direcionado para o setor da farmácia, onde acompanhei a rotina de dispensação de medicamentos e o atendimento aos pacientes da unidade. Inicialmente, permaneci observando as técnicas responsáveis pelo setor realizando atividades administrativas no sistema interno, como conferência de receitas, cadastro de pacientes, consulta de medicamentos disponíveis e registro das retiradas realizadas.",
+                "Durante os atendimentos, foi possível perceber que a farmácia possui papel fundamental dentro da Atenção Básica, sendo responsável não apenas pela entrega de medicamentos, mas também pela orientação aos pacientes sobre o uso correto das medicações, tempo de tratamento, validade das receitas e necessidade de renovação médica.",
+                "As profissionais reforçaram a importância de as receitas médicas serem preenchidas corretamente e dentro das normas exigidas pela legislação, pois erros simples, como ausência de carimbo, informações incompletas ou nomes incorretos de medicamentos, podem impedir a dispensação dos remédios pelo SUS. Também foi observado que alguns medicamentos fornecidos pela unidade podem ser retirados mesmo quando prescritos em consultas particulares, desde que estejam dentro dos critérios estabelecidos.",
+                "Ao longo do período de observação, percebi que existe grande procura por medicamentos de uso contínuo, principalmente anti-hipertensivos, antibióticos, medicamentos para diabetes e analgésicos. Também foi possível observar situações de falta de alguns medicamentos específicos, fazendo com que os pacientes fossem orientados a procurar outras unidades de saúde ou farmácias particulares.",
+                "Além da observação, participei de atividades práticas do setor, auxiliando na organização de materiais destinados aos pacientes diabéticos. Entre as tarefas realizadas, participei da separação de agulhas em embalagens individuais, organizando os materiais em sacos contendo aproximadamente 30 unidades cada. A atividade demonstrou a importância da organização e do controle dos insumos utilizados diariamente pelos pacientes, garantindo maior praticidade e continuidade no tratamento.",
+                "Outro aspecto observado foi a grande demanda de atendimento na farmácia, exigindo atenção, agilidade e organização das profissionais durante toda a rotina. Mesmo diante do fluxo intenso de pacientes, as técnicas buscavam manter um atendimento acolhedor e fornecer orientações claras à população.",
+                "A experiência permitiu compreender melhor a importância do setor farmacêutico dentro da UBS e como o trabalho realizado nesse espaço está diretamente relacionado à promoção da saúde, adesão ao tratamento e qualidade de vida dos pacientes. Além disso, foi possível perceber como a organização dos processos internos e a comunicação adequada entre os profissionais influenciam diretamente no acesso da população aos medicamentos e aos cuidados oferecidos pelo SUS."
+            ]
+        },
+        {
+            "id": 6,
+            "imagem": "css/assets/denilson.jpeg",
+            "nome": "Denilson Soares",
+            "especialidade_desejada": "Pediatra",
+            "data_nascimento": "16/05/1997",
+            "sobre": "Vejo a experiência no SUS como um ponto chave para desenvolver a integração entre teoria e prática, além de fortalecer valores como convivência, educação e ética na formação como cidadão e profissional.",
+            "expectativas": "Aprender a vivenciar na prática a relação médico-paciente, compreendendo melhor cada indivíduo em sua realidade cotidiana e proporcionando uma experiência de cuidado mais humanizada.",
+            "medos_e_desafios": "Desafio de equilibrar teoria e prática e de conseguir compreender profundamente as necessidades individuais de cada paciente em seu contexto de vida.",
+            "motivacoes": "Desenvolver uma visão mais humanizada da medicina, focando não apenas nos sintomas, mas na pessoa como um todo, buscando entender causas e fatores que influenciam sua saúde.",
+            "2_dia_ubs": [
+                "Durante minha visita à Unidade Básica de Saúde (UBS), tive a oportunidade de conhecer alguns dos principais setores responsáveis pelo atendimento à população.",
+                "Inicialmente, visitei o setor odontológico, onde atuam três dentistas que realizam atendimentos agendados e também prestam assistência aos casos de urgência, garantindo prioridade aos pacientes que necessitam de atendimento imediato.",
+                "Em seguida, conheci o setor SAMIS, responsável pelo gerenciamento dos prontuários dos pacientes. Nesse setor, todas as fichas antigas, que antes eram armazenadas em formato físico, foram convertidas para um sistema digital, proporcionando maior organização, segurança e agilidade no acesso às informações dos usuários.",
+                "Por fim, visitei o setor de Regulação, que desempenha um papel fundamental no encaminhamento dos pacientes para exames específicos e consultas com especialistas. Após avaliação do médico clínico geral, os pacientes que necessitam de acompanhamento especializado são direcionados por esse setor para dar continuidade ao seu tratamento.",
+                "A visita permitiu compreender a importância da integração entre os diferentes setores da UBS, evidenciando como cada um contribui para a qualidade e a eficiência da assistência prestada à comunidade."
+            ]
+        }
+    ]
+}
