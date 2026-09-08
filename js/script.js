@@ -1,8 +1,15 @@
 async function carregarEquipe() {
-    const response = await fetch('./JSON/equipe.json');
-    const data = await response.json();
-
     const container = document.getElementById('teamContainer');
+
+    if (!container) return;
+
+    const response = await fetch('./JSON/equipe.json');
+
+    if (!response.ok) {
+        throw new Error(`Não foi possível carregar equipe.json: ${response.status}`);
+    }
+
+    const data = await response.json();
 
     data.equipe.forEach(pessoa => {
         const card = document.createElement('div');
@@ -38,6 +45,11 @@ async function carregarMembro() {
     const id = getIdFromURL();
 
     const response = await fetch('./../JSON/equipe.json');
+
+    if (!response.ok) {
+        throw new Error(`Não foi possível carregar equipe.json: ${response.status}`);
+    }
+
     const data = await response.json();
 
     const membro = data.equipe.find(m => m.id == id);
@@ -84,6 +96,11 @@ function getRelatoIdFromURL() {
 
 async function carregarRelato() {
     const response = await fetch('./../JSON/relatos.json');
+
+    if (!response.ok) {
+        throw new Error(`Não foi possível carregar relatos.json: ${response.status}`);
+    }
+
     const data = await response.json();
     const relato = data.relatos.find(item => item.id === getRelatoIdFromURL());
 
