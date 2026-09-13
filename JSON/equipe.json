@@ -60,6 +60,22 @@
             ]
         },
         {
+            "id": 4,
+            "imagem": "css/assets/ana.jpeg",
+            "nome": "Ana Júlia Miranda",
+            "especialidade_desejada": "Pediatra",
+            "data_nascimento": "13/05/2002",
+            "sobre": "Sou estudante de Medicina e vejo essa escolha como o início de uma trajetória de muito aprendizado, descobertas e crescimento pessoal. Sempre tive interesse em compreender as pessoas e acredito que cuidar da saúde vai muito além de conhecer doenças e tratamentos: envolve saber ouvir, acolher e enxergar cada paciente em sua individualidade.",
+            "expectativas": "Espero aproveitar cada experiência da graduação para desenvolver uma visão cada vez mais completa sobre o cuidado em saúde. Quero aprender a estabelecer uma boa relação médico-paciente, compreender as diferentes realidades que existem por trás de cada pessoa e, futuramente, oferecer um atendimento baseado em conhecimento, empatia e respeito.",
+            "medos_e_desafios": "Sei que a Medicina exige dedicação, disciplina e constante disposição para aprender. Meu principal desafio é conciliar a quantidade de conhecimento necessária à formação com a construção de um olhar humano e individualizado sobre cada paciente. Quero aprender não apenas a tratar doenças, mas a cuidar de pessoas.",
+            "motivacoes": "Escolhi a Medicina pelo desejo de aprender continuamente, compreender o ser humano e transformar conhecimento em cuidado. Minha trajetória me ensinou sobre persistência e, hoje, vejo a graduação como o início da profissional que quero me tornar. Quero unir conhecimento, empatia e responsabilidade para fazer diferença na vida dos meus futuros pacientes.",
+            "2_dia_ubs": [
+                "No segundo dia de atividades na Unidade Básica de Saúde, fui direcionado para o setor de triagem, onde acompanhei a rotina de avaliação inicial dos pacientes. Durante esse período, observei como os profissionais realizam a coleta de informações sobre os sintomas apresentados, medem sinais vitais e identificam casos que necessitam de atendimento imediato.",
+                "Foi interessante perceber como a triagem é fundamental para organizar o fluxo de atendimento na UBS, garantindo que os pacientes sejam encaminhados para o setor adequado conforme suas necessidades. Além disso, pude observar a importância da comunicação clara e empática com os pacientes, proporcionando um ambiente acolhedor e seguro.",
+                "Durante a observação, também participei de atividades práticas, auxiliando na organização dos prontuários e no registro das informações coletadas. Essa experiência me permitiu compreender melhor o funcionamento interno da UBS e a importância do trabalho em equipe para garantir um atendimento eficiente e humanizado."
+            ]
+        },
+        {
             "id": 5,
             "imagem": "css/assets/anderson.jpeg",
             "nome": "Anderson Zanata",
