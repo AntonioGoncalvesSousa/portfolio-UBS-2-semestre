@@ -2,14 +2,14 @@
     "equipe": [
         {
             "id": 1,
-            "imagem": "css/assets/vicenzo.jpeg",
-            "nome": "Vicenzo de Oliveira Tenório",
-            "especialidade_desejada": "Geriatria",
-            "data_nascimento": "08/04/2006",
-            "sobre": "Estou começando agora meu estágio em uma Unidade Básica de Saúde (UBS), e pra mim isso é ao mesmo tempo muito importante e um pouco assustador.",
-            "expectativas": "Aprender de verdade como funciona a medicina no dia a dia, melhorar a forma de conversar com os pacientes, entender melhor o que eles sentem, aprender a olhar além da doença e ver como funciona o SUS na prática, principalmente na atenção básica.",
-            "medos_e_desafios": "Medo de não saber o que fazer em algumas situações, de travar na hora de falar com o paciente, de não conseguir colocar em prática o que foi estudado e de não corresponder às expectativas dos profissionais mais experientes, além da insegurança de ainda não se sentir pronto.",
-            "motivacoes": "Vontade de ajudar as pessoas e fazer diferença na vida delas, interesse pelo cuidado mais próximo e humano da UBS e motivação em aprender com profissionais que já vivem essa realidade todos os dias."
+            "imagem": "css/assets/antonio.jpeg",
+            "nome": "Antonio Gonçalves Sousa",
+            "especialidade_desejada": "Anestesista",
+            "data_nascimento": "26/08/2005",
+            "sobre": "Olá, meu nome é Antonio, sou estudante de Medicina formado em Analise e Desenvolvimento de Sistemas.",
+            "expectativas": "Aprender a prática da medicina, ter contato direto com o paciente e aprender com profissionais formados e bem preparados para qualquer tipo de situação adversa. Acredito que a medicina não se aprende de forma teórica, mas sim de forma prática, observando e tentando reproduzir ações médicas da melhor forma, e que não há forma melhor de aprender do que na UBS.",
+            "medos_e_desafios": "Desafios em relação a iniciar o estudo da medicina já com aprendizado na prática, embora veja isso como algo que trará benefícios futuros.",
+            "motivacoes": "Possibilidade de aumentar o conhecimento e futuramente ser capaz de salvar vidas pela prática da medicina."
         },
         {
             "id": 2,
@@ -24,14 +24,14 @@
         },
         {
             "id": 3,
-            "imagem": "css/assets/antonio.jpeg",
-            "nome": "Antonio Gonçalves Sousa",
-            "especialidade_desejada": "Anestesista",
-            "data_nascimento": "26/08/2005",
-            "sobre": "Olá, meu nome é Antonio, sou estudante de Medicina formado em Analise e Desenvolvimento de Sistemas.",
-            "expectativas": "Aprender a prática da medicina, ter contato direto com o paciente e aprender com profissionais formados e bem preparados para qualquer tipo de situação adversa. Acredito que a medicina não se aprende de forma teórica, mas sim de forma prática, observando e tentando reproduzir ações médicas da melhor forma, e que não há forma melhor de aprender do que na UBS.",
-            "medos_e_desafios": "Desafios em relação a iniciar o estudo da medicina já com aprendizado na prática, embora veja isso como algo que trará benefícios futuros.",
-            "motivacoes": "Possibilidade de aumentar o conhecimento e futuramente ser capaz de salvar vidas pela prática da medicina."
+            "imagem": "css/assets/vicenzo.jpeg",
+            "nome": "Vicenzo de Oliveira Tenório",
+            "especialidade_desejada": "Geriatria",
+            "data_nascimento": "08/04/2006",
+            "sobre": "Estou começando agora meu estágio em uma Unidade Básica de Saúde (UBS), e pra mim isso é ao mesmo tempo muito importante e um pouco assustador.",
+            "expectativas": "Aprender de verdade como funciona a medicina no dia a dia, melhorar a forma de conversar com os pacientes, entender melhor o que eles sentem, aprender a olhar além da doença e ver como funciona o SUS na prática, principalmente na atenção básica.",
+            "medos_e_desafios": "Medo de não saber o que fazer em algumas situações, de travar na hora de falar com o paciente, de não conseguir colocar em prática o que foi estudado e de não corresponder às expectativas dos profissionais mais experientes, além da insegurança de ainda não se sentir pronto.",
+            "motivacoes": "Vontade de ajudar as pessoas e fazer diferença na vida delas, interesse pelo cuidado mais próximo e humano da UBS e motivação em aprender com profissionais que já vivem essa realidade todos os dias."
         },
         {
             "id": 4,
