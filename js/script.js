@@ -73,16 +73,6 @@ function preencherTela(membro) {
     document.getElementById("expectativas").innerText = membro.expectativas;
     document.getElementById("desafios").innerText = membro.medos_e_desafios;
     document.getElementById("motivacoes").innerText = membro.motivacoes;
-
-    const relatoContainer = document.getElementById("relato");
-
-    if (membro["2_dia_ubs"] && membro["2_dia_ubs"].length > 0) {
-        relatoContainer.innerHTML = membro["2_dia_ubs"]
-            .map(paragrafo => `<p>${paragrafo}</p>`)
-            .join("");
-    } else {
-        relatoContainer.innerHTML = "<p>Sem relato disponível.</p>";
-    }
 }
 
 if (window.location.pathname.includes("member.html")) {
