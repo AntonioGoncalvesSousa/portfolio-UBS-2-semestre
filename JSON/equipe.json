@@ -65,6 +65,28 @@
             "expectativas": "Aprender a vivenciar na prática a relação médico-paciente, compreendendo melhor cada indivíduo em sua realidade cotidiana e proporcionando uma experiência de cuidado mais humanizada.",
             "medos_e_desafios": "Desafio de equilibrar teoria e prática e de conseguir compreender profundamente as necessidades individuais de cada paciente em seu contexto de vida.",
             "motivacoes": "Desenvolver uma visão mais humanizada da medicina, focando não apenas nos sintomas, mas na pessoa como um todo, buscando entender causas e fatores que influenciam sua saúde."
+        },
+        {
+            "id": 7,
+            "imagem": "css/assets/flavia.jpeg",
+            "nome": "Flávia Bione Porto",
+            "especialidade_desejada": "Cirurgiã / Dermatologista",
+            "data_nascimento": "29/08/2007",
+            "sobre": "Sou estudante de Medicina e vejo essa oportunidade como uma chance de aprender na prática, vivenciando a rotina de uma Unidade Básica de Saúde (UBS) e entendendo melhor o funcionamento do Sistema Único de Saúde (SUS).",
+            "expectativas": "Colocar em prática o que aprendo na faculdade, desenvolver meu raciocínio clínico e melhorar minha comunicação com os pacientes. Também quero conhecer melhor a rotina da Atenção Primária e aprender com a equipe, buscando uma formação cada vez mais humanizada.",
+            "medos_e_desafios": "Me adaptar à rotina da Atenção Primária, desenvolver segurança nos atendimentos, melhorar a comunicação com os pacientes, trabalhar em equipe multiprofissional e relacionar os conhecimentos teóricos com a prática. Além disso, é importante compreender as necessidades sociais e de saúde da população atendida.",
+            "motivacoes": "Adquirir experiência prática, desenvolver habilidades de comunicação e atendimento, conhecer melhor a realidade da Atenção Primária e compreender as necessidades da comunidade. Além disso, o estágio permite aplicar conhecimentos da faculdade e contribuir para o cuidado dos pacientes."
+        },
+        {
+            "id": 8,
+            "imagem": "css/assets/leticia.jpeg",
+            "nome": "Letícia Bione",
+            "especialidade_desejada": "Cirurgia plástica",
+            "data_nascimento": "29/08/2007",
+            "sobre": "Estou aqui na AMA/UBS Oratório como estudando de medicina.",
+            "expectativas": "Espero obter mais conhecimento e aprofundar no estudo da saúde para além da teoria, pois medicina também é sobre empatia e cuidado que temos com o paciente, e estar estagiando mostra o quão importante é a presença e a prática nesse âmbito.",
+            "medos_e_desafios": "As vezes estar de frente com os problemas de saúde das pessoas pode amedrontar, pode dar medo de não saber o que fazer e quais atitudes tomar, mas é na prática que a gente se aprimora cada vez mais.",
+            "motivacoes": "Melhorar mais profissionalmente e compreender melhor os institutos de saúde."
         }
     ]
 }
