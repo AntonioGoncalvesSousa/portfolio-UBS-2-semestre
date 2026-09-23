@@ -84,6 +84,47 @@ function getRelatoIdFromURL() {
     return Number(params.get("id"));
 }
 
+async function carregarRelatos() {
+    const container = document.getElementById("relatosContainer");
+
+    if (!container) return;
+
+    const response = await fetch("./../JSON/relatos.json");
+
+    if (!response.ok) {
+        throw new Error(`Não foi possível carregar relatos.json: ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    data.relatos.forEach(relato => {
+        const card = document.createElement("article");
+        card.classList.add("relatosCard");
+
+        const semana = document.createElement("span");
+        semana.classList.add("relatoWeek");
+        semana.textContent = relato.semana;
+
+        const titulo = document.createElement("h2");
+        titulo.textContent = relato.titulo;
+
+        const subtitulo = document.createElement("p");
+        subtitulo.textContent = relato.subtitulo;
+
+        const link = document.createElement("a");
+        link.classList.add("relatoBtn");
+        link.href = `./relato.html?id=${relato.id}`;
+        link.textContent = "Ler Relato Completo";
+
+        card.append(semana, titulo, subtitulo, link);
+        container.appendChild(card);
+    });
+}
+
+if (document.getElementById("relatosContainer")) {
+    carregarRelatos();
+}
+
 async function carregarRelato() {
     const response = await fetch('./../JSON/relatos.json');
 
@@ -104,6 +145,15 @@ async function carregarRelato() {
     document.getElementById("relatoSemana").innerText = relato.semana;
     document.getElementById("relatoTitulo").innerText = relato.titulo;
     document.getElementById("relatoSubtitulo").innerText = relato.subtitulo;
+    const imagens = document.getElementById("relatoImagens");
+
+    relato.imagens?.forEach((caminho, indice) => {
+        const imagem = document.createElement("img");
+        imagem.src = `./../${caminho}`;
+        imagem.alt = `Imagem ${indice + 1} do relato: ${relato.subtitulo}`;
+        imagens.appendChild(imagem);
+    });
+
     document.getElementById("relatoConteudo").innerHTML = relato.conteudo
         .map(paragrafo => `<p>${paragrafo}</p>`)
         .join("");

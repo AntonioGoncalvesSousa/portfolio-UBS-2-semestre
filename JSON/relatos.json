@@ -37,6 +37,22 @@
                 "Os dados do paciente devem ser:\n- Identificação do indivíduo\n- Dados clínicos: sinais e sintomas, data do início dos sintomas e hipóteses diagnósticas.\n- Dados de residência: para identificar a realidade epidemiológica de áreas geográficas específicas.",
                 "Essa introdução no 3º dia de UBS foi essencial para entendermos que a nossa atuação no sistema (UBS) é o que alimenta as decisões de saúde pública em nível federal. Sem a notificação correta e oportuna, o sistema de saúde não consegue \"enxergar\" as doenças que circulam na comunidade, o que compromete o planejamento de ações e a distribuição de recursos."
             ]
+        },
+        {
+            "id": 4,
+            "semana": "Semana 04",
+            "titulo": "Relato da 4ª semana",
+            "subtitulo": "Experiência clínica da Ana Júlia com o eletrocardiograma",
+            "imagens": [
+                "css/assets/relatoAnaJulia/eletro-relato-ana1.jpeg",
+                "css/assets/relatoAnaJulia/eletro-relato-ana2.jpeg",
+                "css/assets/relatoAnaJulia/eletro-relato-ana3.jpeg"
+            ],
+            "conteudo": [
+                "Durante a experiência desta semana, acompanhamos a realização de um eletrocardiograma (ECG) na UBS. A enfermeira Sandra explicou que o exame utiliza dez eletrodos: quatro posicionados nos membros e seis no tórax. Nos membros, o RA (vermelho) é colocado no braço direito, o LA (amarelo) no braço esquerdo, o RL (verde) na perna direita e o LL (preto) na perna esquerda. No tórax, os eletrodos V1 a V6 são posicionados em locais específicos entre os espaços intercostais.",
+                "Também aprendemos que, caso o paciente não possua algum membro, o eletrodo deve ser colocado no membro residual, quando possível, ou em uma posição alternativa adequada. Essa alteração precisa ser registrada para auxiliar na interpretação do exame.",
+                "Após a realização do procedimento, o resultado é encaminhado para avaliação de um cardiologista por meio da telemedicina. A atividade mostrou como esse recurso amplia o acesso à avaliação especializada e permite que o ECG seja laudado mesmo quando o cardiologista não está presente fisicamente na unidade."
+            ]
         }
     ]
 }
